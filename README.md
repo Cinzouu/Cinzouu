@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Christian
-- 💻 Estudante de Web Java.
+- 💻 Estudante Analise e Desenvolvimento de Sistemas.
 - 👨🏻‍💻 Desenvolvedor Backend em porcesso de construção.
 - 🎮 Amante de jogos de FPS.
 
